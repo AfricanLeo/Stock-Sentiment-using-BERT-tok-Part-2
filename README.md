@@ -1,7 +1,7 @@
 # Stock Sentiment Analysis With BERT Tokeniser – Part 2
 In 2018, Google introduced and very generously open-sourced BERT (Bidirectional Encoder Representation from Transformers), a powerful machine learning framework for natural language processing.  BERT is designed to help computers understand the meaning of ambiguous language in text by using surrounding text to establish context.
 
-![](images/BERT.jpg)
+![](https://github.com/AfricanLeo/Stock-Sentiment-using-BERT-tok-Part-2/blob/main/images/BERT.jpeg)
 
 ## What happened in Part 1
 
@@ -60,11 +60,12 @@ The CNN model uses 3 different feature detectors to capture the different scales
 
 Here is the summary of the model:
 
-![](images/summary.png)
+
+![](https://github.com/AfricanLeo/Stock-Sentiment-using-BERT-tok-Part-2/blob/main/images/summary.png)
 
 ### The Results
 
-![](images/result.png) 
+![](https://github.com/AfricanLeo/Stock-Sentiment-using-BERT-tok-Part-2/blob/main/images/result.png)
 
 Building and training a CNN yields an accuracy of 99,9% which is higher than the CNN built and trained in part 1 of Stock Sentiment Analysis.  The surprise comes, however, when we evaluate the model with an unseen test dataset.  This yields an 86% accuracy on the test set, around 5% higher than the best performing logistic regression classifier in the first project.  
 
