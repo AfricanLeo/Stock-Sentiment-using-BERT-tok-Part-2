@@ -70,6 +70,9 @@ Building and training a CNN yields an accuracy of 99,9% which is higher than the
 
 Using the BERT-tokeniser as representation for a CNN model greatly improved the model results, with less overfitting. 
 
+## Making predictions 
+
+Out of 6 randomly selected tweets, the model predicted the sentiment correctly on 4 tweets, while getting it wrong on 2 of them. While this is not nearly enough data to draw any conclusions, it does make for a good start. Being able to understand and interpret a model's correct predictions are just as important as understanding the incorrect predictions.  
  
 Hope you enjoyed this tutorial.  Stay tuned for more on BERT. 
-![image](https://user-images.githubusercontent.com/38812097/145558371-8dbbbee3-90f4-4fed-acc8-54b79bd00a80.png)
+
