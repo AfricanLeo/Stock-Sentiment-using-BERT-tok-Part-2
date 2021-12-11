@@ -1,5 +1,7 @@
 # Stock Sentiment Analysis With BERT Tokeniser – Part 2
-In 2018, Google introduced and very generously open-sourced BERT (Bidirectional Encoder Representation from Transformers), a powerful machine learning framework for natural language processing.  BERT is designed to help computers understand the meaning of ambiguous language in text by using surrounding text to establish context.
+In 2018, Google introduced and very generously open-sourced BERT (Bidirectional Encoder Representation from Transformers), a powerful machine learning framework for natural language processing. 
+
+This project attempts to improve on previous attempts by tapping into the power of this potent language model using BERT tokeniser combined with a convolutional neural network for text classification.
 
 ![](https://github.com/AfricanLeo/Stock-Sentiment-using-BERT-tok-Part-2/blob/main/images/BERT.jpeg)
 
