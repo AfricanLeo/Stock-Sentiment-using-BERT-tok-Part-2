@@ -3,7 +3,7 @@ In 2018, Google introduced and very generously open-sourced BERT (Bidirectional 
 
 This project attempts to improve on previous attempts by tapping into the power of this potent language model using BERT tokeniser combined with a convolutional neural network for text classification.
 
-![](/images/BERT.jpeg)
+![](images/BERT.jpeg)
 
 ## What happened in Part 1
 
@@ -63,11 +63,11 @@ The CNN model uses 3 different feature detectors to capture the different scales
 Here is the summary of the model:
 
 
-![](/images/summary.png)
+![](images/summary.png)
 
 ### The Results
 
-![](/images/result.png)
+![](images/result.png)
 
 Building and training a CNN yields an accuracy of 99,9% which is higher than the CNN built and trained in part 1 of Stock Sentiment Analysis.  The surprise comes, however, when we evaluate the model with an unseen test dataset.  This yields an 86% accuracy on the test set, around 5% higher than the best performing logistic regression classifier in the first project.  
 
