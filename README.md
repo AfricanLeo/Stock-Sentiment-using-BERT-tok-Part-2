@@ -31,7 +31,7 @@ BERT is also bidirectional, meaning that it learns information from both the lef
 
 ## Quick recap of the dataset
 
-The Stock Market Sentiment dataset is kindly provided on the Kaggle website by Yash Chaudhary. The dataset contains approximately 6,000 tweets regarding stocks, trading and economic forecasts from twitter. Each tweet was classified as having a positive(1) or negative(0) sentiment.
+The [Stock Market Sentiment dataset](https://www.kaggle.com/yash612/stockmarket-sentiment-dataset) is kindly provided on the Kaggle website by [Yash Chaudhary](https://www.kaggle.com/yash612). The dataset contains approximately 6,000 tweets regarding stocks, trading and economic forecasts from twitter. Each tweet was classified as having a positive(1) or negative(0) sentiment.
 
 ## Understanding the landscape
 
